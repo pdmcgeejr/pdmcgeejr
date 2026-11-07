@@ -1,5 +1,4 @@
-# home
-PDMCGEEJR Home Repository
+# PDMCGEEJR Home Repository
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=7453155" target="_blank" style="display: block" align="center">
   <picture>

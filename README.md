@@ -1,4 +1,7 @@
 # PDMCGEEJR
+import DateTime from '../components/widgets/datetime'
+
+<DateTime interval={10000} />
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=7453155" target="_blank" style="display: block" align="center">
   <picture>
